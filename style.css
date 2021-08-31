@@ -1,0 +1,56 @@
+
+
+body {
+  background-color: rgba(240, 238, 238, 0.664);
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar-brand {
+  background-color: turquoise;
+  padding: 10px;
+  color: white ;
+}
+
+.nav-item .nav-link {
+  color:gray;
+}
+
+
+.container {
+  background-color: white;
+  margin-top: 30px;
+  padding: 30px;
+  
+}
+
+h2, h4 {
+  color: rgb(50, 177, 164) ;
+  font-weight: bold;
+}
+
+.parent-container {
+  background-color: rgba(240, 238, 238, 0.664);
+  margin-bottom: 30px;
+}
+
+.summary-piece {
+  background-color: white;
+  margin-top: 30px;
+  padding: 30px;
+
+}
+
+.summary-image {
+  float: left;
+  width: 60%;
+}
+
+/* .comparison-images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+} */
